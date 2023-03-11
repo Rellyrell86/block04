@@ -2,4 +2,3 @@
 # There is nothing permanent, except change
 
 
-# Always practice, practice, practice forever
